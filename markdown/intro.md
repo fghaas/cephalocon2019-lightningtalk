@@ -2,16 +2,17 @@
 
 For Fun, For Real, For Free!
 
-Lightning Talk
-
 * * *
+
+Lightning Talk
 
 Florian Haas | [@xahteiwi](https://twitter.com/xahteiwi)
 
 Cephalocon 2019 | 2019-05-20
 
 
-# 
+# Sorry <!-- .element class="hidden" -->
+
 <!-- Note -->
 
 I’m sorry, this talk is — mostly — not for you.
