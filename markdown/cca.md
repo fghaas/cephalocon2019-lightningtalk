@@ -13,15 +13,16 @@ So basically, what we were trying to be, to our customers, was the
 know-it-all.
 
 
-<!-- .slide: data-background-image="images/smart_skilled_worker.svg" data-background-size="contain" -->
+<!-- .slide: data-background-image="images/smart_skilled_worker.svg" data-background-size="contain" data-timing="40" -->
 
 <!-- Note --> 
 And people liked it! And we could make our own little contribution to
 spreading the word about Ceph. And more than zero people who sat in
 one of our classes back then did a keynote at this very conference. So
-I reckon we did OK. But:
+I guess we did OK. But:
 
-While that is admittedly a very effective means of knowledge transfer
+While that — that is to say hands-on, face-to-face, instructor-driven
+training — is admittedly a very effective means of knowledge transfer
 *when it happens,* it has a ton of drawbacks.
 
 Because if this is our principal means of how we want to spread
@@ -48,7 +49,7 @@ and scale. Because the conventional, instructor-driven training method is
 terrible at all three.
 
 
-<!-- .slide: data-background-image="images/costspeedscale.svg" data-background-size="contain" data-timing="60"-->
+<!-- .slide: data-background-image="images/costspeedscale.svg" data-background-size="contain" data-timing="70"-->
 
 <!-- Note --> 
 First it’s really expensive to get good instructors, and then there’s
@@ -75,14 +76,15 @@ So there’s another way to do this, and that’s on-line learning. But oh
 my lord is online learning frequently terrible.
 
 
-<!-- .slide: data-background-image="images/video_based.svg" data-background-size="contain" -->
+<!-- .slide: data-background-image="images/video_based.svg" data-background-size="contain" data-timing="15" -->
 
 <!-- Note --> 
 
-It often hinges on learners watching an instructor talk on video.
+It often hinges on learners watching an instructor talk on
+video. Essentially one person just chatting away at a static camera.
 
 
-<!-- .slide: data-background-image="images/learning.svg" data-background-size="contain" -->
+<!-- .slide: data-background-image="images/learning.svg" data-background-size="contain" data-timing="20" -->
 <!-- Note -->
 And self-studying documentation. And that's how you're supposed
 to understand and be able to manage increasingly complex distributed
@@ -90,48 +92,46 @@ systems. Without ever actually touching one that you can also break with
 impunity.
 
 
-<!-- .slide: data-background-image="images/astronaut_training.svg" data-background-size="contain" -->
+<!-- .slide: data-background-image="images/astronaut_training.svg" data-background-size="contain" data-timing="15" -->
 
 <!-- Note --> 
 It's almost like putting astronauts in a lecture hall with study
 books and a few tabletop exercises, ...
 
 
-<!-- .slide: data-background-image="images/astronaut_strapped.svg" data-background-size="contain" -->
+<!-- .slide: data-background-image="images/astronaut_strapped.svg" data-background-size="contain" data-timing="15" -->
 
 <!-- Note --> 
-and then strapping them to a rocket and hurling them into space
-without them ever setting foot in a realistic simulator.
+and then dragging them out of the lecture hall, strapping them to a
+rocket and hurling them into space without them ever setting foot in a
+realistic simulator.
 
-That's a broken model. So what do we really need?
+That's insanity. We’d never do that. And yet, it’s remarkably close to
+how a lot of technology training works.. So what do we really need?
 
 
-<!-- .slide: data-background-image="images/help.svg" data-background-size="contain" -->
+<!-- .slide: data-background-image="images/help.svg" data-background-size="contain" data-timing="15" -->
 <!-- Note --> 
 We need learning environments that actually help you learn the technology
 that you want and need to learn.
 
 
-<!-- .slide: data-background-image="images/immersive.svg" data-background-size="contain" -->
+<!-- .slide: data-background-image="images/immersive.svg" data-background-size="contain" data-timing="15" -->
 <!-- Note --> 
-That come with immersive, realistic lab environments.
+That come with immersive, realistic lab environments that you can
+interact with just like you would with production systems.
 
 
-<!-- .slide: data-background-image="images/interact_with_peers.svg" data-background-size="contain" -->
+<!-- .slide: data-background-image="images/interact_with_peers.svg" data-background-size="contain" data-timing="15" -->
 <!-- Note --> 
 That allow you to interact directly with your peers, in your
-learning environment, just as you would in your professional group.
-
-
-<!-- .slide: data-background-image="images/system.svg" data-background-size="contain" -->
-<!-- Note --> 
-... and do all that ...
+learning environment, just as you would in your professional peer group.
 
 
 <!-- .slide: data-background-image="images/open_source.svg" data-background-size="contain" -->
 <!-- Note --> 
-... with the momentum and speed of open-source platforms that innovate
-rapidly and openly.
+... and do all that with the momentum and speed of open-source
+platforms that innovate rapidly and openly.
 
 
 <!-- .slide: data-background-image="images/openedx-logo.svg" data-background-size="contain" -->

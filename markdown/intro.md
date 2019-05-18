@@ -11,7 +11,7 @@ Florian Haas | [@xahteiwi](https://twitter.com/xahteiwi)
 Cephalocon 2019 | 2019-05-20
 
 
-<!-- .slide data-timing="50" -->
+<!-- .slide: data-timing="60" -->
 # Sorry <!-- .element class="hidden" -->
 This talk is probably not for you.  <!-- .element class="fragment" -->
 
