@@ -13,4 +13,4 @@ Rendered slides from this presentation are at <https://fghaas.github.io/cephaloc
 
 Made with [Cookiecutter](https://cookiecutter.readthedocs.io/) from gh:fghaas/cookiecutter-presentation.
 
-License: CC-BY-SA
+All rights reserved.
