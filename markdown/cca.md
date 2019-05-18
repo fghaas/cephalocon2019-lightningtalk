@@ -4,18 +4,25 @@ Flashback to
 <!-- Note --> 
 
 In 2015, my team and I set out with an idea: we’d been doing a lot of
-training, for the better part of 4 years, on Ceph, on OpenStack, and
+training, for the better part of 3 years, on Ceph, on OpenStack, and
 related technology. But we’d done it in a conventional way, with a
 group of perhaps 5-10 people, seated in a room, listening to a
-consultant-slash-instructor. You know, trying to be the know-it-all.
+consultant-slash-instructor. 
+
+So basically, what we were trying to be, to our customers, was the
+know-it-all.
 
 
 <!-- .slide: data-background-image="images/smart_skilled_worker.svg" data-background-size="contain" -->
 
 <!-- Note --> 
-And while that is admittedly a very effective
-means of knowledge transfer *when it happens,* it has a ton of
-drawbacks. 
+And people liked it! And we could make our own little contribution to
+spreading the word about Ceph. And more than zero people who sat in
+one of our classes back then did a keynote at this very conference. So
+I reckon we did OK. But:
+
+While that is admittedly a very effective means of knowledge transfer
+*when it happens,* it has a ton of drawbacks.
 
 Because if this is our principal means of how we want to spread
 knowledge about technology, then we’re up against three massive
@@ -46,10 +53,8 @@ terrible at all three.
 <!-- Note --> 
 First it’s really expensive to get good instructors, and then there’s
 only so many people available that are actually good at this. Many of
-them are here in the room, book them if you can. But even a super
-smart chap like Wido here won’t easily be able to train a hundred
-people in a week, all of whom speak Pŭtōnghuà (Mandarin Chinese), so
-that’s a scale issue.
+them are here in the room. Book them if you can, but they’re usually
+booked up weeks and months out.
 
 Then it means disruption. You’re getting pulled out of a project for
 three days or even a week. And the people on your team have to step in
@@ -60,6 +65,11 @@ experience is ruined because you need to tend to issues all the time.
 And then it takes tons of time. And that’s not the training session or
 class itself, but the preparation, the scheduling, the wait for an
 available instructor, all that. So that’s cost.
+
+And even a super smart chap like Wido here, if you can hire and he’s
+available, won’t easily be able to train a hundred people in a week,
+all of whom speak Pŭtōnghuà (Mandarin Chinese), so that’s a scale
+issue.
 
 So there’s another way to do this, and that’s on-line learning. But oh
 my lord is online learning frequently terrible.
@@ -124,3 +134,14 @@ learning environment, just as you would in your professional group.
 rapidly and openly.
 
 
+<!-- .slide: data-background-image="images/openedx-logo.svg" data-background-size="contain" -->
+<!-- Note --> 
+And we built one! Based on the Open edX platform. 
+
+(Which is a whole separate talk in itself. So much cool stuff in
+there, particularly if you’re a Python person. But! I digress.
+
+
+<https://academy.citycloud.com> <!-- .element: class="qrcode" -->
+
+academy.citycloud.com
