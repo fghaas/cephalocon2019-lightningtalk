@@ -48,7 +48,7 @@ and scale. Because the conventional, instructor-driven training method is
 terrible at all three.
 
 
-<!-- .slide: data-background-image="images/costspeedscale.svg" data-background-size="contain" -->
+<!-- .slide: data-background-image="images/costspeedscale.svg" data-background-size="contain" data-timing="60"-->
 
 <!-- Note --> 
 First it’s really expensive to get good instructors, and then there’s
@@ -139,9 +139,13 @@ rapidly and openly.
 And we built one! Based on the Open edX platform. 
 
 (Which is a whole separate talk in itself. So much cool stuff in
-there, particularly if you’re a Python person. But! I digress.
+there, particularly if you’re a Python person. But! I digress.)
 
 
 <https://academy.citycloud.com> <!-- .element: class="qrcode" -->
 
-academy.citycloud.com
+[academy.citycloud.com](https://academy.citycloud.com)
+
+<!-- Note --> 
+So this is the site I’m talking about, you can totally go there and
+take a look and *one of* the courses we have there is...
