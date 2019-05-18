@@ -1,0 +1,40 @@
+body:after {
+	content: '@xahteiwi (artwork: @NatiTal)';
+	opacity: 0.5;
+	font-size: 200%;
+	font-family: "Source Sans Pro", sans-serif;
+	position: fixed;
+	bottom: 2em;
+	right: 2em;
+}
+
+.reveal {
+    .overview {
+	.hidden {
+	    display: inherit;
+	}
+    }
+
+    .hidden {
+	display: none;
+    }
+
+    td, th {
+	font-size: 200%;
+    }
+    
+    iframe {
+	border: none;
+    }
+
+    .fragment {
+
+	.visible {
+	    opacity: 0.4 !important;
+	}
+
+	.current-fragment {
+	    opacity: 1 !important;
+	}
+    }
+}
