@@ -107,7 +107,7 @@ rocket and hurling them into space without them ever setting foot in a
 realistic simulator.
 
 That's insanity. We’d never do that. And yet, it’s remarkably close to
-how a lot of technology training works.. So what do we really need?
+how a lot of technology training works. So what do we really need?
 
 
 <!-- .slide: data-background-image="images/help.svg" data-background-size="contain" data-timing="15" -->
